@@ -1,0 +1,18 @@
+body{
+div{
+  &.jumbotron{
+	padding-left: 2%;
+	background-color: cornflowerblue;
+
+	.btn-default{
+	  background-color: #959aff;
+	  border-color: #959aff;
+	}
+
+	.btn-default:hover{
+	  background-color: #5257a0;
+	}
+  }
+}
+
+}
